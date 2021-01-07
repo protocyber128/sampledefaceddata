@@ -1,5 +1,5 @@
 # sampledefaceddata
-Attached is a small set of sample defaced and non-defaced data.  You can segregate the data for your own training and testing datasets.  
+Attached is a small set of sample defaced and non-defaced data in json formats.  You can either use the HTML data or the processed json data. It's up to you to segregate the data into training and test sets.  
 
 Can you develop a classification engine to classify if a new webpage is defaced or non-defaced?   
 
