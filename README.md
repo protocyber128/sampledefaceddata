@@ -9,7 +9,7 @@ You can consider using one of the approaches:
 
 The classification engine should be developed in either tensorflow/keras (prefered) or pytorch.  You can use Google colab for temp GPU resources.
 
-Due to the limited datasize, we are not expecting super high accuracy.  We are more interested in understanding your thought process and your development skills in deep learning.  
+As we understand the data size given for this is actually quite small, we are not expecting super high accuracy.  We are more interested in understanding your thought process and your development skills in deep learning.  
 
 You will get a chance to go through your model with us in the next interview.  
 
